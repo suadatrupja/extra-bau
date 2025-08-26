@@ -1,168 +1,168 @@
-# EXTRA BAU Construction Company Website
+# EXTRA BAU Bauunternehmen Website
 
-A modern, responsive website for EXTRA BAU Construction Company, specializing in interior construction, drywall, renovation, flooring, and building cleaning services.
+Eine moderne, responsive Website für EXTRA BAU Bauunternehmen, spezialisiert auf Innenausbau, Trockenbau, Renovierung, Bodenbeläge und Gebäudereinigung.
 
-## 🌟 Features
+## 🌟 Funktionen
 
 ### Responsive Design
-- **Mobile-First Approach**: Optimized for all device sizes
-- **Breakpoint System**: 
+- **Mobile-First Ansatz**: Optimiert für alle Gerätegrößen
+- **Breakpoint-System**: 
   - Desktop: 1200px+
   - Tablet: 992px - 1199px
   - Mobile: 768px - 991px
-  - Small Mobile: 480px - 767px
-  - Extra Small: 360px - 479px
-- **Touch-Friendly**: Optimized for touch devices and mobile interactions
-- **Landscape Support**: Special handling for mobile landscape orientation
+  - Kleines Mobile: 480px - 767px
+  - Extra Klein: 360px - 479px
+- **Touch-optimiert**: Optimiert für Touch-Geräte und mobile Interaktionen
+- **Landscape-Unterstützung**: Spezielle Behandlung für mobile Landscape-Ausrichtung
 
-### Enhanced User Experience
-- **Loading Screen**: Smooth loading animation with spinner
-- **Mobile Navigation**: Hamburger menu with smooth animations
-- **Smooth Scrolling**: Enhanced navigation with offset handling
-- **Touch Gestures**: Swipe detection for mobile devices
-- **Performance Optimized**: Throttled scroll events and optimized animations
+### Verbesserte Benutzererfahrung
+- **Ladebildschirm**: Sanfte Ladeanimation mit Spinner
+- **Mobile Navigation**: Hamburger-Menü mit sanften Animationen
+- **Sanftes Scrollen**: Verbesserte Navigation mit Offset-Behandlung
+- **Touch-Gesten**: Swipe-Erkennung für mobile Geräte
+- **Leistungsoptimiert**: Gedrosselte Scroll-Events und optimierte Animationen
 
-### Cross-Device Compatibility
-- **High DPI Support**: Optimized for retina and high-resolution displays
-- **Print Styles**: Print-friendly CSS for documentation
-- **Accessibility**: Keyboard navigation and screen reader support
-- **Progressive Enhancement**: Works on all modern browsers
+### Cross-Device-Kompatibilität
+- **High DPI-Unterstützung**: Optimiert für Retina und hochauflösende Displays
+- **Druckstile**: Druckfreundliches CSS für Dokumentation
+- **Barrierefreiheit**: Tastaturnavigation und Screen Reader-Unterstützung
+- **Progressive Enhancement**: Funktioniert auf allen modernen Browsern
 
 ## 📱 Responsive Breakpoints
 
 ### Desktop (1200px+)
-- Full navigation menu
-- Multi-column layouts
-- Hover effects and animations
-- Large typography and spacing
+- Vollständiges Navigationsmenü
+- Mehrspaltige Layouts
+- Hover-Effekte und Animationen
+- Große Typografie und Abstände
 
 ### Tablet (992px - 1199px)
-- Adjusted spacing and typography
-- Optimized grid layouts
-- Maintained hover interactions
+- Angepasste Abstände und Typografie
+- Optimierte Grid-Layouts
+- Beibehaltene Hover-Interaktionen
 
 ### Mobile (768px - 991px)
-- Collapsible hamburger navigation
-- Single-column layouts
-- Touch-optimized interactions
-- Adjusted font sizes and spacing
+- Einklappbare Hamburger-Navigation
+- Einspaltige Layouts
+- Touch-optimierte Interaktionen
+- Angepasste Schriftgrößen und Abstände
 
-### Small Mobile (480px - 767px)
-- Compact layouts
-- Optimized touch targets
-- Reduced padding and margins
-- Simplified navigation
+### Kleines Mobile (480px - 767px)
+- Kompakte Layouts
+- Optimierte Touch-Ziele
+- Reduzierte Abstände und Ränder
+- Vereinfachte Navigation
 
-### Extra Small (360px - 479px)
-- Minimal spacing
-- Essential content only
-- Optimized for very small screens
+### Extra Klein (360px - 479px)
+- Minimale Abstände
+- Nur wesentlicher Inhalt
+- Optimiert für sehr kleine Bildschirme
 
-## 🚀 Performance Features
+## 🚀 Leistungsmerkmale
 
-- **Lazy Loading**: Images and content load as needed
-- **Optimized Animations**: 60fps smooth animations
-- **Efficient CSS**: Minimal repaints and reflows
-- **Touch Optimization**: Reduced motion on mobile devices
-- **Memory Management**: Proper event cleanup and optimization
+- **Lazy Loading**: Bilder und Inhalt werden bei Bedarf geladen
+- **Optimierte Animationen**: 60fps sanfte Animationen
+- **Effizientes CSS**: Minimale Neuzeichnungen und Neuberechnungen
+- **Touch-Optimierung**: Reduzierte Bewegung auf mobilen Geräten
+- **Speicherverwaltung**: Ordnungsgemäße Event-Bereinigung und Optimierung
 
-## 🎨 Design System
+## 🎨 Design-System
 
-### Color Palette
-- **Primary Red**: #d32f2f (Brand color)
-- **Primary Green**: #2e7d32 (Accent color)
-- **Dark Gray**: #424242 (Text and headings)
-- **Light Gray**: #f5f5f5 (Backgrounds)
-- **White**: #ffffff (Content areas)
+### Farbpalette
+- **Primäres Rot**: #d32f2f (Markenfarbe)
+- **Primäres Grün**: #2e7d32 (Akzentfarbe)
+- **Dunkelgrau**: #424242 (Text und Überschriften)
+- **Hellgrau**: #f5f5f5 (Hintergründe)
+- **Weiß**: #ffffff (Inhaltsbereiche)
 
-### Typography
-- **Font Family**: Roboto (Google Fonts)
-- **Weights**: 300, 400, 700, 900
-- **Responsive Scaling**: Font sizes adjust to screen size
-- **Line Heights**: Optimized for readability
+### Typografie
+- **Schriftfamilie**: Roboto (Google Fonts)
+- **Gewichte**: 300, 400, 700, 900
+- **Responsive Skalierung**: Schriftgrößen passen sich der Bildschirmgröße an
+- **Zeilenhöhen**: Optimiert für Lesbarkeit
 
-### Spacing System
-- **Container**: Max-width 1200px with responsive padding
-- **Sections**: 80px padding (desktop), scales down on mobile
-- **Cards**: Consistent padding and margins across breakpoints
-- **Grid Gaps**: Responsive spacing between elements
+### Abstandssystem
+- **Container**: Max-Breite 1200px mit responsiven Abständen
+- **Abschnitte**: 80px Abstand (Desktop), skaliert auf Mobile herunter
+- **Karten**: Konsistente Abstände und Ränder über alle Breakpoints
+- **Grid-Abstände**: Responsive Abstände zwischen Elementen
 
-## 📁 File Structure
+## 📁 Dateistruktur
 
 ```
 Extra Bau/
-├── index.html          # Homepage
-├── about.html          # About page
-├── services.html       # Services page
-├── gallery.html        # Gallery page
-├── contact.html        # Contact page
-├── styles.css          # Main stylesheet with responsive design
-├── script.js           # Enhanced JavaScript functionality
-├── gallery.js          # Gallery-specific functionality
-├── img/                # Image assets
-└── README.md           # This file
+├── index.html          # Startseite
+├── about.html          # Über uns Seite
+├── services.html       # Leistungen Seite
+├── gallery.html        # Galerie Seite
+├── contact.html        # Kontakt Seite
+├── styles.css          # Hauptstylesheet mit responsivem Design
+├── script.js           # Verbesserte JavaScript-Funktionalität
+├── gallery.js          # Galerie-spezifische Funktionalität
+├── img/                # Bild-Assets
+└── README.md           # Diese Datei
 ```
 
-## 🛠️ Technical Implementation
+## 🛠️ Technische Implementierung
 
-### CSS Features
-- **CSS Grid**: Modern layout system
-- **Flexbox**: Flexible component layouts
-- **CSS Variables**: Consistent theming
-- **Media Queries**: Comprehensive responsive breakpoints
-- **Transitions**: Smooth animations and hover effects
+### CSS-Funktionen
+- **CSS Grid**: Modernes Layout-System
+- **Flexbox**: Flexible Komponenten-Layouts
+- **CSS-Variablen**: Konsistente Thematisierung
+- **Media Queries**: Umfassende responsive Breakpoints
+- **Übergänge**: Sanfte Animationen und Hover-Effekte
 
-### JavaScript Features
-- **Intersection Observer**: Performance-optimized animations
-- **Event Delegation**: Efficient event handling
-- **Touch Events**: Mobile gesture support
-- **Performance Throttling**: Optimized scroll and resize events
-- **Progressive Enhancement**: Graceful degradation
+### JavaScript-Funktionen
+- **Intersection Observer**: Leistungsoptimierte Animationen
+- **Event-Delegation**: Effiziente Event-Behandlung
+- **Touch-Events**: Mobile Gesten-Unterstützung
+- **Leistungs-Drosselung**: Optimierte Scroll- und Resize-Events
+- **Progressive Enhancement**: Graceful Degradation
 
-### HTML Features
-- **Semantic Markup**: Proper HTML5 structure
-- **Meta Tags**: SEO and responsive optimization
-- **Accessibility**: ARIA labels and keyboard navigation
-- **Loading States**: Progressive content loading
+### HTML-Funktionen
+- **Semantisches Markup**: Ordnungsgemäße HTML5-Struktur
+- **Meta-Tags**: SEO und responsive Optimierung
+- **Barrierefreiheit**: ARIA-Labels und Tastaturnavigation
+- **Ladezustände**: Progressive Inhaltsladung
 
-## 📱 Mobile Optimizations
+## 📱 Mobile Optimierungen
 
 ### Navigation
-- Collapsible hamburger menu
-- Smooth slide-in animations
-- Touch-friendly button sizes
-- Proper z-index management
+- Einklappbares Hamburger-Menü
+- Sanfte Slide-in-Animationen
+- Touch-freundliche Button-Größen
+- Ordnungsgemäße Z-Index-Verwaltung
 
-### Content
-- Responsive images with proper scaling
-- Touch-optimized button sizes (minimum 44px)
-- Readable typography on small screens
-- Optimized spacing for mobile viewing
+### Inhalt
+- Responsive Bilder mit ordnungsgemäßer Skalierung
+- Touch-optimierte Button-Größen (Minimum 44px)
+- Lesbare Typografie auf kleinen Bildschirmen
+- Optimierte Abstände für mobile Betrachtung
 
-### Performance
-- Reduced animations on mobile
-- Optimized touch event handling
-- Efficient scroll performance
-- Memory-conscious event management
+### Leistung
+- Reduzierte Animationen auf Mobile
+- Optimierte Touch-Event-Behandlung
+- Effiziente Scroll-Leistung
+- Speicherbewusste Event-Verwaltung
 
-## 🌐 Browser Support
+## 🌐 Browser-Unterstützung
 
-- **Modern Browsers**: Chrome, Firefox, Safari, Edge (latest versions)
-- **Mobile Browsers**: iOS Safari, Chrome Mobile, Samsung Internet
-- **Progressive Enhancement**: Basic functionality on older browsers
-- **CSS Grid**: Supported in all modern browsers
+- **Moderne Browser**: Chrome, Firefox, Safari, Edge (neueste Versionen)
+- **Mobile Browser**: iOS Safari, Chrome Mobile, Samsung Internet
+- **Progressive Enhancement**: Grundfunktionalität auf älteren Browsern
+- **CSS Grid**: Unterstützt in allen modernen Browsern
 
-## 📊 Performance Metrics
+## 📊 Leistungsmetriken
 
-- **First Contentful Paint**: Optimized for fast loading
-- **Largest Contentful Paint**: Efficient content rendering
-- **Cumulative Layout Shift**: Minimal layout shifts
-- **First Input Delay**: Responsive user interactions
+- **First Contentful Paint**: Optimiert für schnelles Laden
+- **Largest Contentful Paint**: Effiziente Inhaltsdarstellung
+- **Cumulative Layout Shift**: Minimale Layout-Verschiebungen
+- **First Input Delay**: Responsive Benutzerinteraktionen
 
-## 🔧 Customization
+## 🔧 Anpassung
 
-### Colors
-Update CSS variables in `:root` section:
+### Farben
+Aktualisieren Sie CSS-Variablen im `:root`-Bereich:
 ```css
 :root {
     --primary-red: #d32f2f;
@@ -173,70 +173,70 @@ Update CSS variables in `:root` section:
 ```
 
 ### Breakpoints
-Modify media queries in `styles.css`:
+Ändern Sie Media Queries in `styles.css`:
 ```css
 @media (max-width: 768px) {
-    /* Mobile styles */
+    /* Mobile-Stile */
 }
 ```
 
-### Animations
-Adjust transition timings and effects:
+### Animationen
+Passen Sie Übergangszeiten und -effekte an:
 ```css
 --transition: all 0.3s ease;
 ```
 
-## 🚀 Getting Started
+## 🚀 Erste Schritte
 
-1. **Clone or download** the project files
-2. **Open `index.html`** in a web browser
-3. **Test responsiveness** by resizing the browser window
-4. **Test on mobile devices** or use browser dev tools
-5. **Customize** colors, content, and styling as needed
+1. **Klonen oder herunterladen** der Projektdateien
+2. **Öffnen Sie `index.html`** in einem Webbrowser
+3. **Testen Sie die Responsivität** durch Ändern der Browserfenstergröße
+4. **Testen Sie auf mobilen Geräten** oder verwenden Sie Browser-Entwicklertools
+5. **Passen Sie** Farben, Inhalt und Styling nach Bedarf an
 
-## 📱 Testing Responsiveness
+## 📱 Responsivität testen
 
-### Browser Dev Tools
-- Use Chrome/Firefox DevTools
-- Toggle device toolbar
-- Test various screen sizes
-- Check touch interactions
+### Browser-Entwicklertools
+- Verwenden Sie Chrome/Firefox DevTools
+- Aktivieren Sie die Geräte-Toolbar
+- Testen Sie verschiedene Bildschirmgrößen
+- Überprüfen Sie Touch-Interaktionen
 
-### Real Devices
-- Test on actual mobile devices
-- Verify touch gestures work
-- Check loading performance
-- Test different orientations
+### Echte Geräte
+- Testen Sie auf tatsächlichen mobilen Geräten
+- Überprüfen Sie, ob Touch-Gesten funktionieren
+- Überprüfen Sie die Ladeleistung
+- Testen Sie verschiedene Ausrichtungen
 
-### Online Tools
+### Online-Tools
 - [Responsive Design Checker](https://responsivedesignchecker.com/)
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 
-## 🔄 Updates and Maintenance
+## 🔄 Updates und Wartung
 
-### Regular Tasks
-- Test on new devices and browsers
-- Update responsive breakpoints if needed
-- Optimize images for new screen densities
-- Review and update meta tags
+### Regelmäßige Aufgaben
+- Testen Sie auf neuen Geräten und Browsern
+- Aktualisieren Sie responsive Breakpoints bei Bedarf
+- Optimieren Sie Bilder für neue Bildschirmdichten
+- Überprüfen und aktualisieren Sie Meta-Tags
 
-### Performance Monitoring
-- Monitor Core Web Vitals
-- Check mobile performance scores
-- Optimize based on user analytics
-- Update dependencies regularly
+### Leistungsüberwachung
+- Überwachen Sie Core Web Vitals
+- Überprüfen Sie mobile Leistungswerte
+- Optimieren Sie basierend auf Benutzeranalysen
+- Aktualisieren Sie Abhängigkeiten regelmäßig
 
 ## 📞 Support
 
-For questions or support regarding the responsive design implementation:
-- Review the CSS media queries in `styles.css`
-- Check JavaScript functionality in `script.js`
-- Test on various devices and screen sizes
-- Use browser developer tools for debugging
+Für Fragen oder Support bezüglich der responsiven Design-Implementierung:
+- Überprüfen Sie die CSS Media Queries in `styles.css`
+- Überprüfen Sie die JavaScript-Funktionalität in `script.js`
+- Testen Sie auf verschiedenen Geräten und Bildschirmgrößen
+- Verwenden Sie Browser-Entwicklertools für das Debugging
 
 ---
 
-**Built with ❤️ for EXTRA BAU Construction Company**
+**Gebaut mit ❤️ für EXTRA BAU Bauunternehmen**
 
-*Last updated: December 2024* 
+*Zuletzt aktualisiert: Dezember 2024* 
